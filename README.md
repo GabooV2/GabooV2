@@ -2,11 +2,10 @@
 </br>
 
 <h1 align="center">:bar_chart:	My Profile Metrics</h3>
-</br>
 <table align="center">
   <tr>
-    <th><h1>:necktie: Profile Stats</h1></th>
-    <th><h1>:fire: Streak Stats</h1></th>
+    <th><h2>:necktie: Profile Stats</h2></th>
+    <th><h2>:fire: Streak Stats</h2></th>
   </tr>
   <tr>
     <td align="center">
@@ -24,16 +23,14 @@
 
 </br>
 <h1 align="center">:man_technologist: Top Languages</h3>
-</br>
 <div align="center">
       <a href="https://github.com/gaboov2">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabooV2&layout=compact&theme=nightowl" alt="Top Languages" />
       </a>
 </div>
 
-<h1 align="center">:toolbox: Languages and Tools</h3>
 </br>
-
+<h1 align="center">:toolbox: Languages and Tools</h3>
 <div align="center">
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue" alt="Visual Studio Code"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Language-SQL-lightblue" alt="SQL"></a>
@@ -58,8 +55,6 @@
 
 </br>
 <h1 align="center">🏆 GitHub Trophies</h3>
-</br>
-
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=80% src="https://github-profile-trophy.vercel.app/?username=gaboov2&theme=discord&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
@@ -68,8 +63,6 @@
 
 </br>
 <h1 align="center">:mailbox: Connect with me</h3>
-</br>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/gabdez/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://sites.google.com/view/gabriel-valdez/home"><img src="https://img.shields.io/badge/Portfolio-darkblue?style=flat&logo=googlechrome" alt="Portfolio"></a>
