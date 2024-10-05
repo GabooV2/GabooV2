@@ -1,28 +1,33 @@
-<h2 align="center">Hi there 👋 welcome to my Github profile! </br> <i>My Name is Gabriel and i'm happy for your visit.</i></h2>
-</br>
+<h2 align="center">Hi there 👋 welcome to my Github profile!</h2>
+<h1 align="center"><i>My Name is <b>Gabriel</b> and i'm happy for your visit.</i></h1>
 
-<h1 align="center">:bar_chart:	My Profile Metrics</h3>
-<table align="center">
-  <tr>
-    <th><h2>:necktie: Profile Stats</h2></th>
-    <th><h2>:fire: Streak Stats</h2></th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/gaboov2">
-        <img src="https://github-readme-stats.vercel.app/api?username=gabooV2&show_icons=true&theme=nightowl" alt="Profile Stats" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/gaboov2">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaboov2&theme=nightowl" alt="Streak Stats" />
-      </a>
-    </td>
-  </tr>
-</table>
+<br>
+<h3>👀 My interest in data...</h3>
+<p>began while working in areas such as auditing, logistics, and systems. I was always intrigued by how data can offer valuable insights for decision-making. This led me to deepen my knowledge in data management, processing, and analysis tools.</p>
+
+
+<h3>🚀 Throughout my journey...</h3>
+<p>I've worked with tools like Excel, Google Sheets, MySQL, Notion, Trello, and Looker Studio (formerly Data Studio). Recently, I've expanded my skill set with Power BI, Python, SQL Server, PostgreSQL, and Google Cloud Platform, as well as deepened my knowledge of Looker Studio. I've applied these skills in 3 MVPs and a project developed during the Data Analyst course at Guayerd + IBM, which has helped me refine my abilities in data visualization and modeling.</p>
 
 </br>
-<h1 align="center">:man_technologist: Top Languages</h3>
+
+<h1 align="center">:bar_chart:	My Profile Metrics</h1>
+<div align="center">
+  <a href="https://github.com/gaboov2">
+    <img src="https://github-readme-stats.vercel.app/api?username=gabooV2&show_icons=true&theme=nightowl" alt="Profile Stats" />
+  </a>
+</div>
+</br>
+
+<h1 align="center">:fire: Streak Stats</h1>
+<div align="center">
+  <a href="https://github.com/gaboov2">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaboov2&theme=nightowl" alt="Streak Stats" />
+  </a>
+</div>
+</br>
+
+<h1 align="center">:man_technologist: Top Languages</h1>
 <div align="center">
       <a href="https://github.com/gaboov2">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabooV2&layout=compact&theme=nightowl" alt="Top Languages" />
@@ -57,7 +62,7 @@
 <h1 align="center">🏆 GitHub Trophies</h3>
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=80% src="https://github-profile-trophy.vercel.app/?username=gaboov2&theme=discord&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=80% src="https://github-profile-trophy.vercel.app/?username=gaboov2&theme=discord&row=1&column=5&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 
@@ -68,15 +73,3 @@
   <a href="https://sites.google.com/view/gabriel-valdez/home"><img src="https://img.shields.io/badge/Portfolio-darkblue?style=flat&logo=googlechrome" alt="Portfolio"></a>
   <a href="mailto:leirbag.valdez@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
-
-<!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
